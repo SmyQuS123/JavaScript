@@ -10,16 +10,16 @@ window.open("obraz.html","okienko","toolbar=no,directories=no,menubar=no,height=
 </head>
 <body>
 <form>
-<input type="button" name="przycisk" value="Nowa Strona" onclick="WinOpen_smyczko(1)(' ')">
+<input type="button" name="przycisk" value="Część pierwsza" onclick="WinOpen_smyczko(1)(' ')">
 </form>
 <form>
-<input type="button" name="przycisk" value="Nowa Strona" onclick="WinOpen_smyczko(2)(' ')">
+<input type="button" name="przycisk" value="Część druga" onclick="WinOpen_smyczko(2)(' ')">
 </form>
 <form>
-<input type="button" name="przycisk" value="Nowa Strona" onclick="WinOpen_smyczko(3)(' ')">
+<input type="button" name="przycisk" value="Część trzecia" onclick="WinOpen_smyczko(3)(' ')">
 </form>
 <form>
-<input type="button" name="przycisk" value="Nowa Strona" onclick="WinOpen_smyczko(4)(' ')">
+<input type="button" name="przycisk" value="Część czwarta" onclick="WinOpen_smyczko(4)(' ')">
 </form>
 </body>
 </html>
